@@ -1,0 +1,8 @@
+{
+  "name": "sapereia-tools",
+  "version": "1.0.0",
+  "description": "Herramientas y skills de Sapereia para Claude Code",
+  "author": {
+    "name": "Sapereia"
+  }
+}

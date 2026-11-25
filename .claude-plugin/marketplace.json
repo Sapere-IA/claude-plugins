@@ -1,0 +1,15 @@
+{
+  "name": "sapereia",
+  "description": "Marketplace de plugins de Sapereia para Claude Code",
+  "owner": {
+    "name": "Sapereia"
+  },
+  "plugins": [
+    {
+      "name": "sapereia-tools",
+      "source": "./plugins/sapereia-tools",
+      "description": "Herramientas y skills de Sapereia para Claude Code",
+      "version": "1.0.0"
+    }
+  ]
+}
